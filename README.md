@@ -1,0 +1,2 @@
+# eeplug
+Here are samples of some custom WordPress plugins that I have made.  First example is an ajaxified (jQuery) plugin that connects to an external database (not the default WP database), creates a detail grid and add/edit form and shortcodes to insert them.  The theme this plugin was built to populate inside is the "X" Premium WordPress theme.  The HTML shown creates a lovely business layout.
